@@ -21,8 +21,13 @@
   },
   "bugs": "https://github.com/zacanger/colorepl/issues",
   "keywords": [
-    "",
-    "colorepl"
+    "color",
+    "colorepl",
+    "colour",
+    "highlighting",
+    "repl",
+    "syntax",
+    "syntax-highlighting"
   ],
   "dependencies": {},
   "devDependencies": {},
