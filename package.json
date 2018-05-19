@@ -29,7 +29,9 @@
     "syntax",
     "syntax-highlighting"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "zeelib": "7.0.2"
+  },
   "devDependencies": {},
   "engines": {
     "node": ">=8.0.0"
