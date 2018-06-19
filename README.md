@@ -14,7 +14,7 @@ Or, if you like to install stuff globally, `npm i -g colorepl`, then `colorepl`.
 
 ## Why?
 
-Other languages have nice REPLs! Clojure has Ultra, Python has ptpython, Haskell
+Other languages have nice REPLs! Clojure has Ultra, Python has bpython, Haskell
 has HsColour, and so on. Node's REPL is just a builtin module, which means it
 can easily be built on. And I like syntax highlighting, so I wanted this. As far
 as I know, the only real REPL (I'm not counting browser-based applications like

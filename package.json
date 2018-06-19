@@ -30,7 +30,7 @@
     "syntax-highlighting"
   ],
   "dependencies": {
-    "zeelib": "7.0.2"
+    "zeelib": "7.0.3"
   },
   "devDependencies": {},
   "engines": {
