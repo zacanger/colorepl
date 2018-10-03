@@ -1,5 +1,7 @@
 # colorepl
 
+[abandoned]
+
 WIP: this doesn't do anything yet.
 
 Node REPL, but with syntax highlighting.
